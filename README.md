@@ -10,7 +10,7 @@ Images of 13,611 grains of 7 different registered dry beans were taken with a hi
 Parameter optimization, also known as hyperparameter tuning, is a crucial step in machine learning model development. It involves finding the best set of hyperparameters for a given machine learning algorithm to optimize its performance on a specific dataset.
 
 ## Comparative performance of Optimised-SVM with different samples
-[![line-plot.png](https://i.postimg.cc/rmyxbh6j/line-plot.png)](https://postimg.cc/wtP1RQjR)
+[![Result_table.png](Result_table.png)]
 
 
 ## Convergence Graph

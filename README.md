@@ -14,6 +14,6 @@ Parameter optimization, also known as hyperparameter tuning, is a crucial step i
 
 
 ## Convergence Graph
-[![line-plot.png](https://i.postimg.cc/rmyxbh6j/line-plot.png)](https://postimg.cc/wtP1RQjR)
+[![line-plot.png](Convergence_Graph.png)]
 
 The last iteration seems to be an anomaly which we can ignore.
